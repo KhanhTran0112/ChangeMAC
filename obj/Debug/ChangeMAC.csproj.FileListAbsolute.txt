@@ -1,0 +1,11 @@
+D:\C#\ChangeMAC\bin\Debug\ChangeMAC.exe.config
+D:\C#\ChangeMAC\bin\Debug\ChangeMAC.exe
+D:\C#\ChangeMAC\bin\Debug\ChangeMAC.pdb
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.csprojAssemblyReference.cache
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.Form1.resources
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.Properties.Resources.resources
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.csproj.GenerateResource.cache
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.exe
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.pdb
+D:\C#\ChangeMAC\bin\Debug\SimpleWifi.dll
+D:\C#\ChangeMAC\obj\Debug\ChangeMAC.csproj.CopyComplete
